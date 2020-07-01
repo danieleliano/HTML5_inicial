@@ -1,0 +1,32 @@
+body{
+    background-color: #819FF7;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+li{
+    text-transform: uppercase;
+}
+h1, h2{
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+p{
+    font-size: 18px;
+}
+header{
+    margin-top: 60px;
+}
+.menu{
+    list-style-type: circle;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.logo{
+    width: 30px;
+}
+footer{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
